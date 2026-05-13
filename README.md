@@ -23,13 +23,13 @@ I work on **Data-Centric Efficient AI** — making large-scale 3D data usable at
 
 | | |
 |---|---|
-| **[ICLR 2026]** Parameterization-Based Dataset Distillation of 3D Point Clouds through Learnable Shape Morphing | *1st author* |
-| **[NeurIPS 2025]** Dataset Distillation of 3D Point Clouds via Distribution Matching | *1st author* |
-| **[ICIP Workshop 2025]** Class-Aware Coreset Selection for 3D Point Clouds Classification | *1st author* |
+| **[ICLR 2026]** Parameterization-Based Dataset Distillation of 3D Point Clouds through Learnable Shape Morphing &nbsp; \[[paper](https://openreview.net/forum?id=Qe7dKZOtWM)\] \[[code](https://github.com/yimjae0/3DDP)\] | *1st author* |
+| **[NeurIPS 2025]** Dataset Distillation of 3D Point Clouds via Distribution Matching &nbsp; \[[paper](https://openreview.net/forum?id=YtmfBtIOPQ)\] \[[code](https://github.com/donguk071/SADM)\] | *1st author* |
+| **[ICIP Workshop 2025]** Class-Aware Coreset Selection for 3D Point Clouds Classification &nbsp; \[[paper](https://ieeexplore.ieee.org/abstract/document/11386049)\] | *1st author* |
 
 ### Preprint
 
-- **[arXiv 2024]** Compression of Large-Scale 3D Point Clouds Based on Joint Optimization of Point Sampling and Feature Extraction
+- **[arXiv 2024]** Compression of Large-Scale 3D Point Clouds Based on Joint Optimization of Point Sampling and Feature Extraction &nbsp; \[[paper](https://arxiv.org/abs/2412.07302)\]
 
 ---
 
